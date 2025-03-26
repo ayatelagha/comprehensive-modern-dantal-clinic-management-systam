@@ -1,6 +1,5 @@
 
-
-Modern Dental Clinic Management System
+comprehensive Dental Clinic Management System
  
 Introduction
 This project is a web-based system designed for managing modern dental clinics. It enhances clinic operations, including:
