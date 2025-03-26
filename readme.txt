@@ -46,8 +46,8 @@ Modern-Dental-Clinic-Management-System/
 │── reservdata.html      # Contains the list of reservations
 │── fetch.js             # JavaScript file linked to reservdata.html
 
-Contact
-Your Name - ayat elagha, Eman AL-bashity, Ghadeer AL-bashity, Noor Atef Al-masry                                                     
+Authors
+ ayat elagha, Eman AL-bashity, Ghadeer AL-bashity, Noor Atef Al-masry                                                     
 Project Link: https://github.com/ayatelagha/modern-dantal-clinic-management-systam/tree/main
 ________________________________________
 
