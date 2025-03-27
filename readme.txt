@@ -21,7 +21,7 @@ Getting Started
 Prerequisites
 To run this project, you need a modern web browser such as Google Chrome, Mozilla Firefox, or Microsoft Edge.
 Installation
-1.	Clone the repository:git clone https://github.com/ayatelagha/modern-dantal-clinic-management-systam/tree/main
+1.	Clone the repository:git clone https://github.com/ayatelagha/comprehensive-modern-dantal-clinic-management-systam
 
 2.	Navigate to the project folder:
         cd Modern-Dental-Clinic-Management-System
@@ -47,7 +47,8 @@ Modern-Dental-Clinic-Management-System/
 
 Authors
  ayat elagha, Eman AL-bashity, Ghadeer AL-bashity, Noor Atef Al-masry                                                     
-Project Link: https://github.com/ayatelagha/modern-dantal-clinic-management-systam/tree/main
+Project Link: https://github.com/ayatelagha/comprehensive-modern-dantal-clinic-management-systam
+
 ________________________________________
 
 
